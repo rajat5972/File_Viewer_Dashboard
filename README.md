@@ -22,4 +22,4 @@ It also allows the user to specify the type of seperator used in the tabular fil
 
 >> Fourth Tab is "Data"
     This tab presents the entire data table in user-friendly manner.
-![Screenshot 2023-09-20 110719](https://github.com/rajat5972/File_Viewer_Dashboard/assets/132495424/67d632cd-1d97-404b-b80f-5c3606b50062)
+![Screenshot 2023-09-20 161117](https://github.com/rajat5972/File_Viewer_Dashboard/assets/132495424/7f989aa9-d175-4aae-aeb1-d218742db5b2)
